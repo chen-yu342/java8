@@ -10,17 +10,10 @@ import java.util.concurrent.CompletableFuture;
  * @author tolstoy.chen
  * @date 2023/8/22 10:36
  */
-public class RunAsyncDemo {
+public class RunAsyncDemo2 {
     public static void main(String[] args) {
-        //回顾线程
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                CommonUtils.printThreadLog("读取文件");
-                CommonUtils.sleepSeconds(3);
-                CommonUtils.printThreadLog("读取结束");
-            }
-        });
+        CommonUtils.printThreadLog("main start");
+
         CompletableFuture.runAsync(new Runnable() {
             @Override
             public void run() {
@@ -29,6 +22,8 @@ public class RunAsyncDemo {
                 CommonUtils.printThreadLog("读取结束");
             }
         });
-        //TODO CompletableFuture其实就是开启一个多线程
+        CommonUtils.printThreadLog("main不会被阻塞");
+        CommonUtils.sleepSeconds(4);
+        CommonUtils.printThreadLog("main结束");
     }
 }

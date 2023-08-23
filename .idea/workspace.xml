@@ -4,14 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55c2c18d-56c3-47d4-b7d2-0980440339c0" name="Changes" comment="" />
+    <list default="true" id="55c2c18d-56c3-47d4-b7d2-0980440339c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/filter_word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/filter_word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/FutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/FutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/RunAsyncDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/SupplyAsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/SupplyAsyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/SupplyAsyncDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/SupplyAsyncDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenAcceptDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenAcceptDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyAsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyAsyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyAsyncDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyAsyncDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenApplyDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenCombineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenCombineDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenComposeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenComposeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenRunDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/main/ThenRunDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haeco/utils/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haeco/utils/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/news.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,10 +61,96 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haeco.main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThenComposeDemo">
+    <configuration name="ThenAcceptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haeco.main.ThenAcceptDemo" />
+      <module name="completable-future" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haeco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThenApplyAsyncDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haeco.main.ThenApplyAsyncDemo" />
+      <module name="completable-future" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haeco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThenApplyAsyncDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haeco.main.ThenApplyAsyncDemo2" />
+      <module name="completable-future" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haeco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThenComposeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haeco.main.ThenComposeDemo" />
+      <module name="completable-future" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haeco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThenRunDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haeco.main.ThenRunDemo" />
+      <module name="completable-future" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haeco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThenComposeDemo" />
+        <item itemvalue="Application.ThenApplyAsyncDemo2" />
+        <item itemvalue="Application.ThenApplyAsyncDemo" />
+        <item itemvalue="Application.ThenRunDemo" />
+        <item itemvalue="Application.ThenAcceptDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +159,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692669423293</updated>
+      <workItem from="1692669424410" duration="10803000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
