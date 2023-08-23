@@ -14,7 +14,7 @@ public class RunAsyncDemo4 {
     public static void main(String[] args) {
         CommonUtils.printThreadLog("main start");
 
-        //TODO lambda  如果是单核CPU，那么任务之间是宁发执行，多核CPU就是并行
+        //TODO lambda  如果是单核CPU，那么任务之间是并-发执行，多核CPU就是并行
         CompletableFuture.runAsync(() -> {
             CommonUtils.printThreadLog("读取文件");
             CommonUtils.readFile("src/main/news.txt");
