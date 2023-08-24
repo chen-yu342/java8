@@ -3,6 +3,8 @@ package com.haeco.utils;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.StringJoiner;
 import java.util.concurrent.TimeUnit;
 
@@ -13,6 +15,11 @@ import java.util.concurrent.TimeUnit;
  * @date 2023/8/22 9:58
  */
 public class CommonUtils {
+
+    private static String   getCurrentTime(){
+        LocalTime time = LocalTime.now();
+        return time.format(DateTimeFormatter.ofPattern("[HH:mm:ss.SSS]"));
+    }
 
     public static String readFile(String pathFile){
         try {
@@ -41,7 +48,8 @@ public class CommonUtils {
     public static void printThreadLog(String message){
         //时间戳|线程id|线程名|日志信息
         String result = new StringJoiner("|")
-                .add(String.valueOf(System.currentTimeMillis()))
+                .add(getCurrentTime())
+                //.add(String.valueOf(System.currentTimeMillis()))
                 .add(String.format("%2d", Thread.currentThread().getId()))
                 .add(Thread.currentThread().getName())
                 .add(message)
